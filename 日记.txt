@@ -7,3 +7,6 @@
 
 2018-10-7 15:00:12
 	create new branch : develop.
+
+2018-10-7 15:07:01
+	merge branch.
