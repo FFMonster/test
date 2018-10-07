@@ -4,3 +4,12 @@
 2018-7-23 23:00:09
 	I eated a Apple.
 	now I'm full.
+
+2018-10-7 15:00:12
+	create new branch : develop.
+
+2018-10-7 15:07:01
+	merge branch.
+
+2018-10-7 15:26:01
+	fixed a bug.
